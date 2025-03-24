@@ -1,0 +1,17 @@
+.App {
+  margin: 30%;
+  text-align: left;
+}
+
+.active {
+    background-color: rgb(4, 70, 45);
+    color: rgb(255, 255, 255);     
+    border: none;
+}
+
+.inactive {
+  pointer-events: none;
+  background-color: rgb(158, 158, 158);
+  color:#b9b9b9;
+  border: none;
+}
